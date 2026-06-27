@@ -1,0 +1,5 @@
+{
+  "model_name": "ElasticNet",
+  "model_cutoff_from_development": 0.19052732405353673,
+  "risk_rule": "Predicted risk >= model_cutoff_from_development was classified as high risk."
+}
